@@ -9,3 +9,11 @@ Windows Command Prompt instructions:
 2. java -jar target/gs-maven-0.1.0.jar
 
 Version runnable in IntelliJ in the other branch
+
+Group Members:
+
+Jack Weatherbe
+Alex Cai
+Rafael Guevara
+Daniyar Umuraliyev
+Agraj Vuppula

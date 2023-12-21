@@ -12,8 +12,12 @@ Version runnable in IntelliJ in the other branch
 
 Group Members:
 
-Jack Weatherbe \n
-Alex Cai \n
-Rafael Guevara \n
-Daniyar Umuraliyev \n
-Agraj Vuppula \n
+Jack Weatherbe
+
+Alex Cai
+
+Rafael Guevara
+
+Daniyar Umuraliyev
+
+Agraj Vuppula
